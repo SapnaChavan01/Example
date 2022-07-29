@@ -1,2 +1,2 @@
 # Example
-This is an example pizza
+This is an example of github
